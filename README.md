@@ -1,4 +1,3 @@
-<pre>
 # About EnsekiTT
 
 ## 自己紹介
@@ -35,4 +34,3 @@ Blog: https://ensekitt.hatenablog.com/
 Github: https://github.com/EnsekiTT
 Twitter: https://twitter.com/EnsekiTT
 Instagram: https://www.instagram.com/ensekitt/
-</pre>

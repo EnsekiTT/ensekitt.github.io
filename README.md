@@ -34,7 +34,7 @@ NHK大学ロボコンとか飛行ロボットコンテストに出ていまし�
 PHPとRubyでWebサービスを少し作れます。
 
 ## コンタクト
-Blog: https://ensekitt.hatenablog.com/
-Github: https://github.com/EnsekiTT
-Twitter: https://twitter.com/EnsekiTT
-Instagram: https://www.instagram.com/ensekitt/
+* Blog: https://ensekitt.hatenablog.com/
+* Github: https://github.com/EnsekiTT
+* Twitter: https://twitter.com/EnsekiTT
+* Instagram: https://www.instagram.com/ensekitt/

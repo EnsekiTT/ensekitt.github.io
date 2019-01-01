@@ -34,7 +34,8 @@ NHK大学ロボコンとか飛行ロボットコンテストに出ていまし�
 PHPとRubyでWebサービスを少し作れます。
 
 ## コンタクト
+TwitterのDMが一番反応早いと思います。
+* Twitter: https://twitter.com/EnsekiTT
 * Blog: https://ensekitt.hatenablog.com/
 * Github: https://github.com/EnsekiTT
-* Twitter: https://twitter.com/EnsekiTT
 * Instagram: https://www.instagram.com/ensekitt/
